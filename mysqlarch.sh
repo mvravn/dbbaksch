@@ -1,4 +1,4 @@
-# Backup Moving Script to work with Percona
+# This is a Backup Moving Script to work with Percona - the Percona backup is running via another script, which may contain a bug.
 
 # Jobs of this script in it's entirety:
 # Retain: 2 latest days, 2 latest weeks, 2 latest months, every semester
